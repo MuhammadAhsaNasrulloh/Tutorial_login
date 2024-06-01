@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "produktif_hotel", "produktif_hotel\produktif_hotel.csproj", "{0E70E0EF-BCD9-4C4F-84AA-962E46DC0938}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E70E0EF-BCD9-4C4F-84AA-962E46DC0938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E70E0EF-BCD9-4C4F-84AA-962E46DC0938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E70E0EF-BCD9-4C4F-84AA-962E46DC0938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E70E0EF-BCD9-4C4F-84AA-962E46DC0938}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8A45313-9802-4025-82B4-8D9F7085C449}
+	EndGlobalSection
+EndGlobal
